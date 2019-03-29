@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">quiz</string>
+    <string name="initial_score">score</string>
+    <string name="question1">html standes for hyper text mark up language.</string>
+    <string name="question2">c++ suports object oriented concept. </string>
+    <string name="question3">html used for back end development</string>
+    <string name="question4">php is used for front end development </string>
+    <string name="question5">php is more secure than jsp and servlet</string>
+    <string name="correct"> you got it</string>
+    <string name="wrong">you are wrong</string>
+    <string name="Falese">false</string>
+    <string name="True">true</string>
+</resources>
